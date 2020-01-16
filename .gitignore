@@ -1,0 +1,8 @@
+db/
+incremental_db/
+*.vhd.bak
+*.rpt
+*.pin
+*.summary
+*.qsf
+*.sof
